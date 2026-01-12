@@ -1,5 +1,5 @@
 {
-  "name": "thormeier/breadcrumb-bundle",
+  "name": "mdesile/breadcrumb-bundle",
   "type": "symfony-bundle",
   "description": "Symfony bundle for easy setup of breadcrumbs",
   "license": "MIT",
@@ -8,7 +8,7 @@
       "name": "Pascal Thormeier",
       "email": "pascal.thormeier@gmail.com",
       "role": "Developer"
-    }
+    }, { "name": "Matthieu DESILE", "email": "m.desile@ellipsa.com" }
   ],
   "autoload": {
     "psr-4": {
